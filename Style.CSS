@@ -1,77 +1,112 @@
-*{
-    margin:0;
-    padding: 0;
-    font-family:'Poppons',sans-serif
-    box-sizing: border-box;
+/*_---------Home----------_*/
+*
+{
+    .header-text-Home{
+        margin-top: 1%;
+        font-size: 30px;
+    }
+}
+
+.header-text h1{
+    font-size: 70px;
+    margin-top: 30px;
 }
 body{
-    background:#000000 ;
+    background: #000000;
     color: #ffffff;
 }
-#header{
-    width:100%;
-    height:100vh;
-    background-image:url(images/background.png);
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url("?");
     background-size: cover;
-    background-positoion: center;
-}
-.container{
-    padding: 10px 10%
-}
-nav
-display:flex;
-align-items: center;
-justify-content: space-between;
-flex-wrap:wrap;
-}
-.logo{
-    width: 140px;
+    background-position: center;
 
+    font-family: sans-serif;
 }
-nav ul li{
-    display: inline-block;
+.menu-bar
+{
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+.menu-bar ul
+{
+    display: inline-flex;
     list-style: none;
-    margin: 10px 20px;
+    color: #ffffff;
+}
+.menu-bar ul li
+{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+.active, .menu-bar ul li:hover
+{
+    background: black;
+    border-radius: 3px;
+}
+.menu-bar .fa
+{
+    margin-right: 8px;
 }
 
-nav ul li a{
-    color:#fff;
-    text-decoration: none;
-    font-size: 18px;
-    position: relative;
+.sub-menu-1
+{
+    display: none;
 }
-nav ul li a::after {
-    content: '';
-    width: 0;
-    height: 3px;
-    background: #ff0000
-    position: absolute
-    left: 0;
-    bottom: -6px;
-    transition: 0.5s;
+.menu-bar ul li:hover .sub-menu-1
+{
+    display: block;
+    position: absolute;
+    background: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-left: -15px;
 }
-nav ul li a:hover::after{
-    width: 100%;
+.menu-bar ul li:hover .sub-menu-1 ul
+{
+    display: block;
+    margin: 10px;
 }
-.header-text {
-     margin-top:20%;
-    font-size: 30px;
+.menu-bar ul li:hover .sub-menu-1 ul li
+{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
 }
-.header-text h1{
-    font-size: 60px;
-    margin-top: 20px;
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child
+{
+    border-bottom: none;
 }
-.header-text h1 span{
-    color: #ff0000;
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover
+{
+    color: #ffffff;
 }
+.fa-angle-right
+{
+    float: right;
+}
+
 /*-----------about----------- */
-#about
-    padding: 80px 0;
-    color: #ababab;
+#about{
+padding: 80px 0;
+color: #ababab;
 }
 .row{
-     display: flex;
-     justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 .about-col {
@@ -81,22 +116,23 @@ nav ul li a:hover::after{
     width: 100%;
     border-radius: 15px;
 }
-.about-col-2
-    flex-basis: 60%;
+.about-col-2{
+flex-basis: 60%;
 }
 .sub-title{
-   font-size: 60px;
-   font-weight: 600;
-   color: #fff;
+    font-size: 60px;
+    font-weight: 600;
+    color: #fff;
 }
 body{
     height: px;
-    background-image: ;
+    background-image:;
 }
 
- .tab-titles{
-       display: flex;
-       margin: 20px 0 40px;
+
+.tab-titles{
+    display: flex;
+    margin: 20px 0 40px;
 }
 .tab-links {
     margin-right: 50px;
@@ -105,27 +141,29 @@ body{
     cursor: pointer;
     position: relative;
 }
- .tab-links::after{
-      content: '';
-     width: 0;
-     height: 3px;
-     background: #ff0000;
-     position: absolute;
-     left: 0;
-     bottom: -8px;
-     transition: 0.5s;
+.tab-links::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background: #ff0000;
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    transition: 0.5s;
 }
 
- .tab-links.active-link::after{
-     width: 50%;
- }
 
- .tab-contents ul li{
-      list-style: none;
-      margin: 10px 0;
- }
+.tab-links.active-link::after{
+    width: 50%;
+}
+
+
+.tab-contents ul li{
+    list-style: none;
+    margin: 10px 0;
+}
 .tab-contents ul li span{
-     color: #ff0000;
+    color: #ff0000;
     font-size: 14px;
 }
 .tab-contents{
@@ -135,49 +173,9 @@ body{
     display: block;
 }
 
-/*----------------services------------*/
-#services{
-    padding: 30px 0;
-}
-.services-list{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax (250px,));
-    grid-gap: 40px;
-    margin-top: 50px;
-}
-.services-list div{
-    background: #262626;
-    padding: 40px;
-    font-size 13px
-    font-weight: 300;
-    border-right: 10px;
-    transition: BACKGROUND
-}
-.services-list div i{
-    font-size: 50px;
-    margin-bottom: 30px;
-}
-.services-list div h2{
-     font-size: 30px;
-     font-weight: 5;
-     margin-bottom:15px
-}
-.services-list div a{
-    text-decoration: none;
-    color: #fff;
-    font-size: 12px;
-    margin-top: 20px;
-    display: inline-block;
-}
-.services-list div:hover{
-    background: #ff0000;
-    transform: translateY(-10px);
-}
 
 
 
-*
-}
 .header-text{
     margin-top: 60%;
     font-size: 30px;
@@ -186,26 +184,16 @@ body{
     font-size: 70px;
     margin-top: 30px;
 }
-body{
-    background: #080808;
-    color: #fff;
-}
+
+
 {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body
 {
-    background-image: url('background.jpg');
-    background-size: cover;
-    background-position: center;
-
-    font-family: sans-serif;
-}
-.menu-bar
-{
-    background: rgb(255, 0, 0);
+    background: rgb(4, 131, 7)
+;
     text-align: center;
 }
 .menu-bar ul
@@ -216,7 +204,7 @@ body
 }
 .menu-bar ul li
 {
-    width: 120px;
+    width: 100px;
     margin: 15px;
     padding: 15px;
 }
@@ -234,6 +222,7 @@ body
 {
     margin-right: 8px;
 }
+
 
 .sub-menu-1
 {
@@ -274,81 +263,13 @@ body
     float: right;
 }
 /*_---------Home----------_*/
-/*_---------about---------_*/
-#about{
-    padding: 80px 0;
-    color: #777777;
-}
-.row{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.about-col-1{
-    flex-basis: 35%;
-}
-.about-col-1 img{
-    width: 100%;
-    border-radius: 15px;
-}
-.about-col-2{
-    flex-basis: 60%;
-}
-
-.sub-title {
-    font-size: 60px;
-    font-weight: 600;
-    color: #fff;
-}
-
-.tab-titles{
-    display: flex;
-    margin: 20px 0 40px;
-}
-.tab-links{
-    margin-right: 50px;
-    font-size: 18px;
-    font-weight: 500;
-    cursor: pointer;
-    position: relative;
-}
-.tab-links::after{
-    content: '';
-    width: 0;
-    height: 3px;
-    background: red;
-    position: absolute;
-    left: 0;
-    bottom: -8px;
-    transition: 0.5s;
-}
-
-.tab-links.active-link::after{
-    width: 50%;
-}
-
-.tab-contents ul li{
-    list-style: none;
-    margin: 10px 0;
-}
-.tab-contents ul li span{
-    color: red;
-    font-size: 14px;
-}
-.tab-contents{
-    display: none;
-}
-.tab-contents.active-tab{
-    display: block;
-}
 
 /*------------------Personal-------------------*/
 #personal{
     padding: 30px 0;
 }
 .Vocation-list{
-    display: grid
+    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
@@ -383,7 +304,7 @@ body
 }
 /*-------------------Portfolio-------------------*/
 #portfolio{
-    padding: 50px 0;
+    padding: 30px 0;
 }
 .work-list{
     display: grid;
@@ -428,6 +349,7 @@ body
     margin-top: 20px;
     color: #fff;
     text-decoration: none;
+
     font-size: 18px;
     line-height: 60px;
     background: #fff;
@@ -443,7 +365,7 @@ body
     height: 100%;
 }
 .btn{
-    background: block;
+    background: black;
     margin: 50px auto;
     width: fit-content;
     border: 1px solid red;
@@ -477,10 +399,11 @@ body
 {
     display: block;
     margin: 10px;
+
 }
 .menu-bar ul li:hover .sub-menu-1 ul li
 {
-    width: 150px;
+    width: 50px;
     padding: 10px;
     border-bottom: 1px dotted #fff;
     background: transparent;
@@ -495,138 +418,44 @@ body
 {
     color: white;
 }
-.fa-angle-right
-{
+.fa-angle-right {
     float: right;
-    body {
-        height: 100vh;
-        background-image: url()
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+body {
+    height: 150vh;
+    background-image: url()
+
+}
+
+/*-------------------Hobbies-------------------*/
+.header-text-Hobbies{
+    width: 100%;
+    height: 50vh;
+    background-color: #000000;
+    display: flex;
+}
+/*-------------------Foods-------------------*/
+
+.header-text-Foods{
+    width: 100%;
+    height: 50vh;
+    background-color: #000000;
+    display: flex;
+}
+/*-------------------Car Project------------------*/
+.header-text-Car-Project{
+    width: 100%;
+    height: 50vh;
+    background-color: #000000;
+    display: flex;
+}
+/*------------------OSHA-10------------------*/
+.header-text-OSHA-10{
+    width: 50%;
+    height: 50vh;
+    background-color: #000000;
+    display: flex;
+}
 
 
 
