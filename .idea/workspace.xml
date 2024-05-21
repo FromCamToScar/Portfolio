@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ddcbd4-0b10-43c5-a4d8-937dd9dc0f06" name="Changes" comment="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)">
-      <change afterPath="$PROJECT_DIR$/Foods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lego Car Project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OSHA-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style.CSS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About Me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Car.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Vinland.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Osha-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Car Project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vocation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vocation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Code..html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cam " beforeDir="false" afterPath="$PROJECT_DIR$/Foods &amp; Hobbies.html " afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    <list default="true" id="54ddcbd4-0b10-43c5-a4d8-937dd9dc0f06" name="Changes" comment="Update changes. 2024/05/21">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car Project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Car Project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lego Car Project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lego Car Project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSHA-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/OSHA-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work.html" beforeDir="false" afterPath="$PROJECT_DIR$/Work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_OLD.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_OLD.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +134,8 @@
       <workItem from="1710761691714" duration="3477000" />
       <workItem from="1711970699660" duration="15652000" />
       <workItem from="1713894168633" duration="5073000" />
-      <workItem from="1716228013862" duration="2978000" />
+      <workItem from="1716228013862" duration="5398000" />
+      <workItem from="1716302537473" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="Started my profoilo">
       <option name="closed" value="true" />
@@ -213,7 +201,39 @@
       <option name="project" value="LOCAL" />
       <updated>1706814865441</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)">
+      <option name="closed" value="true" />
+      <created>1716300581478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716300581478</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)">
+      <option name="closed" value="true" />
+      <created>1716301206220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716301206220</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)">
+      <option name="closed" value="true" />
+      <created>1716301981326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716301981326</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update changes. 2024/05/21">
+      <option name="closed" value="true" />
+      <created>1716302658568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716302658568</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +251,7 @@
     <MESSAGE value="added file for vocation.html" />
     <MESSAGE value="i change line 38-45&#10;&#10;ve had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;i did navigation for resume&#10;&#10;i am done with my resume page&#10;&#10;done with my about page&#10;&#10;change the style of my about page&#10;&#10;1.)got my images&#10;&#10; 2.)fix my code&#10;&#10; 3.)i helped zay with  all his pictures so he can put in replit&#10;&#10;4.)line up my favorite foods with &lt;li&gt; and &lt;ul&gt;&#10;&#10;5.)line up my Favortie Hobbies with &lt;li&gt; and &lt;ul&gt;&#10;&#10;6.)line up my favorite Anime with &lt;li&gt; and &lt;ul&gt;&#10;&#10;7.)line up my favorite Video Games  with &lt;li&gt; and &lt;ul&gt;&#10;&#10; 8.)coded my images into my code for favorite foods&#10;&#10; 9.)coded my images into my code for favorite Anime&#10;&#10; 10.)coded my images into my code for favorite  Videos Games&#10;&#10; 11.)coded my images into my code for favorite  Hobbies&#10;&#10; 12.) coded my images into my code for favorite foods&#10;&#10;13.)coded my images into my code for favorite foods&#10;&#10; 14.)coded pizza&#10;&#10; 15.)coded apples&#10;&#10; 16.)coded samlon fish&#10;&#10;17.)coded Baked Chicken&#10;&#10; 18.)Coded Riding Horses&#10;&#10; 19.)coded mixed martial arts&#10;&#10; 20.)coded all my anime shows&#10;&#10;Fixed errors" />
     <MESSAGE value="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)" />
+    <MESSAGE value="Update changes. 2024/05/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update changes. 2024/05/21" />
   </component>
 </project>
