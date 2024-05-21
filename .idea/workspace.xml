@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54ddcbd4-0b10-43c5-a4d8-937dd9dc0f06" name="Changes" comment="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)">
+      <change afterPath="$PROJECT_DIR$/Foods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lego Car Project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OSHA-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style.CSS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About Me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Car.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Vinland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Osha-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Car Project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vocation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vocation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Code..html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cam " beforeDir="false" afterPath="$PROJECT_DIR$/Foods &amp; Hobbies.html " afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FromCamToScar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f09098cf-1573-4e55-bef2-72bff5360fc1" />
+        <option name="url" value="https://github.com/FromCamToScar/Portfolio.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/About Me.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ZZz0BX5eobaKEnFnSI6krZo90M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.About Me.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.About.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Car Project.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Foods.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Home.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Resume.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.Vocation.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.about.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;/Users/329563/PhpstormProjects/Portfolio&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Car Project.html">
+    <configuration name="Car Project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/Car Project.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Resume.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/Resume.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Car Project.html" />
+        <item itemvalue="JavaScript Debug.Resume.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.232" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ddcbd4-0b10-43c5-a4d8-937dd9dc0f06" name="Changes" comment="" />
+      <created>1702644163932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702644163932</updated>
+      <workItem from="1702644164961" duration="5780000" />
+      <workItem from="1704284810427" duration="25523000" />
+      <workItem from="1705408218029" duration="33250000" />
+      <workItem from="1706531619167" duration="65052000" />
+      <workItem from="1707741397014" duration="10589000" />
+      <workItem from="1707763936818" duration="2446000" />
+      <workItem from="1707932692346" duration="28591000" />
+      <workItem from="1709555805789" duration="37969000" />
+      <workItem from="1710761691714" duration="3477000" />
+      <workItem from="1711970699660" duration="15652000" />
+      <workItem from="1713894168633" duration="5073000" />
+      <workItem from="1716228013862" duration="2978000" />
+    </task>
+    <task id="LOCAL-00001" summary="Started my profoilo">
+      <option name="closed" value="true" />
+      <created>1702644368260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702644368260</updated>
+    </task>
+    <task id="LOCAL-00002" summary="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit &#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done &#10; &#10;change my px on style css &#10;&#10;change of my width &#10;&#10;change my height&#10;&#10;change px numbers &#10;&#10;added more code">
+      <option name="closed" value="true" />
+      <created>1704393465529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704393465529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code">
+      <option name="closed" value="true" />
+      <created>1705427458168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705427458168</updated>
+    </task>
+    <task id="LOCAL-00004" summary="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code">
+      <option name="closed" value="true" />
+      <created>1705427463779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705427463779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code">
+      <option name="closed" value="true" />
+      <created>1705430446848</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705430446848</updated>
+    </task>
+    <task id="LOCAL-00006" summary="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code">
+      <option name="closed" value="true" />
+      <created>1705585317122</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705585317122</updated>
+    </task>
+    <task id="LOCAL-00007" summary="i change line 38-45&#10;&#10;ve had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;i did navigation for resume &#10;&#10;i am done with my resume page &#10;&#10;done with my about page&#10;&#10;change the style of my about page&#10;&#10;1.)got my images&#10;&#10; 2.)fix my code &#10; &#10; 3.)i helped zay with  all his pictures so he can put in replit &#10; &#10;4.)line up my favorite foods with &lt;li&gt; and &lt;ul&gt;&#10; &#10;5.)line up my Favortie Hobbies with &lt;li&gt; and &lt;ul&gt;&#10; &#10;6.)line up my favorite Anime with &lt;li&gt; and &lt;ul&gt;&#10;&#10;7.)line up my favorite Video Games  with &lt;li&gt; and &lt;ul&gt;&#10;&#10; 8.)coded my images into my code for favorite foods &#10; &#10; 9.)coded my images into my code for favorite Anime&#10; &#10; 10.)coded my images into my code for favorite  Videos Games &#10; &#10; 11.)coded my images into my code for favorite  Hobbies &#10; &#10; 12.) coded my images into my code for favorite foods &#10; &#10;13.)coded my images into my code for favorite foods &#10; &#10; 14.)coded pizza&#10; &#10; 15.)coded apples &#10; &#10; 16.)coded samlon fish &#10; &#10;17.)coded Baked Chicken &#10; &#10; 18.)Coded Riding Horses&#10; &#10; 19.)coded mixed martial arts &#10; &#10; 20.)coded all my anime shows">
+      <option name="closed" value="true" />
+      <created>1706812670359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706812670359</updated>
+    </task>
+    <task id="LOCAL-00008" summary="i change line 38-45&#10;&#10;ve had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;i did navigation for resume &#10;&#10;i am done with my resume page &#10;&#10;done with my about page&#10;&#10;change the style of my about page&#10;&#10;1.)got my images&#10;&#10; 2.)fix my code &#10; &#10; 3.)i helped zay with  all his pictures so he can put in replit &#10; &#10;4.)line up my favorite foods with &lt;li&gt; and &lt;ul&gt;&#10; &#10;5.)line up my Favortie Hobbies with &lt;li&gt; and &lt;ul&gt;&#10; &#10;6.)line up my favorite Anime with &lt;li&gt; and &lt;ul&gt;&#10;&#10;7.)line up my favorite Video Games  with &lt;li&gt; and &lt;ul&gt;&#10;&#10; 8.)coded my images into my code for favorite foods &#10; &#10; 9.)coded my images into my code for favorite Anime&#10; &#10; 10.)coded my images into my code for favorite  Videos Games &#10; &#10; 11.)coded my images into my code for favorite  Hobbies &#10; &#10; 12.) coded my images into my code for favorite foods &#10; &#10;13.)coded my images into my code for favorite foods &#10; &#10; 14.)coded pizza&#10; &#10; 15.)coded apples &#10; &#10; 16.)coded samlon fish &#10; &#10;17.)coded Baked Chicken &#10; &#10; 18.)Coded Riding Horses&#10; &#10; 19.)coded mixed martial arts &#10; &#10; 20.)coded all my anime shows&#10; &#10;Fixed errors">
+      <option name="closed" value="true" />
+      <created>1706814865441</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706814865441</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started my profoilo" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit &#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done &#10; &#10;change my px on style css &#10;&#10;change of my width &#10;&#10;change my height&#10;&#10;change px numbers &#10;&#10;added more code" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit &#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done &#10; &#10;change my px on style css &#10;&#10;change of my width &#10;&#10;change my height&#10;&#10;&#10;&#10;change px numbers &#10;&#10;added more code&#10;&#10;change line 131-133 style.css &#10;&#10;change line 41 with onclick=&quot;&quot;&#10;&#10;change line 41 &#10;&#10;fix line 42-43&#10;&#10;fix line 63 and 65&#10;&#10;fix line 42 &#10;&#10;fix line 43" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;added &lt;!-----------services----------------- --&gt;&#10;&#10;change line 56 &#10;&#10;copy and paste line 56" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;fix line 152 style.css&#10;&#10;fix line 153 style.css&#10;fix line 154 style.css&#10;fix line 155 style.css&#10;fix line 156 style.css&#10;&#10;but all my services-list on style.css" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ive had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ve had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;i did navigation for resume &#10;&#10;i am done with my resume page &#10;&#10;done with my about page&#10;&#10;change the style of my about page&#10;&#10;1.)got my images&#10;&#10; 2.)fix my code &#10; &#10; 3.)i helped zay with  all his pictures so he can put in replit &#10; &#10;4.)line up my favorite foods with &lt;li&gt; and &lt;ul&gt;&#10; &#10;5.)line up my Favortie Hobbies with &lt;li&gt; and &lt;ul&gt;&#10; &#10;6.)line up my favorite Anime with &lt;li&gt; and &lt;ul&gt;&#10;&#10;7.)line up my favorite Video Games  with &lt;li&gt; and &lt;ul&gt;&#10;&#10; 8.)coded my images into my code for favorite foods &#10; &#10; 9.)coded my images into my code for favorite Anime&#10; &#10; 10.)coded my images into my code for favorite  Videos Games &#10; &#10; 11.)coded my images into my code for favorite  Hobbies &#10; &#10; 12.) coded my images into my code for favorite foods &#10; &#10;13.)coded my images into my code for favorite foods &#10; &#10; 14.)coded pizza&#10; &#10; 15.)coded apples &#10; &#10; 16.)coded samlon fish &#10; &#10;17.)coded Baked Chicken &#10; &#10; 18.)Coded Riding Horses&#10; &#10; 19.)coded mixed martial arts &#10; &#10; 20.)coded all my anime shows" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ve had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;i did navigation for resume &#10;&#10;i am done with my resume page &#10;&#10;done with my about page&#10;&#10;change the style of my about page&#10;&#10;1.)got my images&#10;&#10; 2.)fix my code &#10; &#10; 3.)i helped zay with  all his pictures so he can put in replit &#10; &#10;4.)line up my favorite foods with &lt;li&gt; and &lt;ul&gt;&#10; &#10;5.)line up my Favortie Hobbies with &lt;li&gt; and &lt;ul&gt;&#10; &#10;6.)line up my favorite Anime with &lt;li&gt; and &lt;ul&gt;&#10;&#10;7.)line up my favorite Video Games  with &lt;li&gt; and &lt;ul&gt;&#10;&#10; 8.)coded my images into my code for favorite foods &#10; &#10; 9.)coded my images into my code for favorite Anime&#10; &#10; 10.)coded my images into my code for favorite  Videos Games &#10; &#10; 11.)coded my images into my code for favorite  Hobbies &#10; &#10; 12.) coded my images into my code for favorite foods &#10; &#10;13.)coded my images into my code for favorite foods &#10; &#10; 14.)coded pizza&#10; &#10; 15.)coded apples &#10; &#10; 16.)coded samlon fish &#10; &#10;17.)coded Baked Chicken &#10; &#10; 18.)Coded Riding Horses&#10; &#10; 19.)coded mixed martial arts &#10; &#10; 20.)coded all my anime shows&#10; &#10;Fixed errors" />
+    <MESSAGE value="added file for vocation.html" />
+    <MESSAGE value="i change line 38-45&#10;&#10;ve had to change up some mistakes i made on the replit&#10;&#10;style.css changes line 23 up from a error&#10;&#10;from line 31-37 html change and done&#10;&#10;change my px on style css&#10;&#10;change of my width&#10;&#10;change my height&#10;&#10;change px numbers&#10;&#10;added more code&#10;&#10;i did navigation for resume&#10;&#10;i am done with my resume page&#10;&#10;done with my about page&#10;&#10;change the style of my about page&#10;&#10;1.)got my images&#10;&#10; 2.)fix my code&#10;&#10; 3.)i helped zay with  all his pictures so he can put in replit&#10;&#10;4.)line up my favorite foods with &lt;li&gt; and &lt;ul&gt;&#10;&#10;5.)line up my Favortie Hobbies with &lt;li&gt; and &lt;ul&gt;&#10;&#10;6.)line up my favorite Anime with &lt;li&gt; and &lt;ul&gt;&#10;&#10;7.)line up my favorite Video Games  with &lt;li&gt; and &lt;ul&gt;&#10;&#10; 8.)coded my images into my code for favorite foods&#10;&#10; 9.)coded my images into my code for favorite Anime&#10;&#10; 10.)coded my images into my code for favorite  Videos Games&#10;&#10; 11.)coded my images into my code for favorite  Hobbies&#10;&#10; 12.) coded my images into my code for favorite foods&#10;&#10;13.)coded my images into my code for favorite foods&#10;&#10; 14.)coded pizza&#10;&#10; 15.)coded apples&#10;&#10; 16.)coded samlon fish&#10;&#10;17.)coded Baked Chicken&#10;&#10; 18.)Coded Riding Horses&#10;&#10; 19.)coded mixed martial arts&#10;&#10; 20.)coded all my anime shows&#10;&#10;Fixed errors" />
+    <MESSAGE value="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;1.) made home page and navigation&#10;&#10;2.) made about me page navigation&#10;       &#10;3.) added pictures to my food&#10;&#10;4.) added pictures to my hobbies     &#10;&#10;5.) helped hector out        &#10;&#10;6.) zay helped me out with my png &#10;&#10;7.) fixed my error  in style.css&#10;&#10;8.) fixed all my errors in home html &#10;&#10;9.) fix up errors in &#10;&#10;10.)&#10;&#10;11.)&#10;&#10;12.) &#10;&#10;13.) &#10;&#10;14.)&#10;&#10;15.) &#10;&#10;16.)&#10;&#10;17.)&#10;&#10;18.)&#10;&#10;19.)&#10;&#10;20.)" />
+  </component>
+</project>
