@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ddcbd4-0b10-43c5-a4d8-937dd9dc0f06" name="Changes" comment="Update changes. 2024/05/21">
+      <change afterPath="$PROJECT_DIR$/css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stair.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Car Project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Car Project.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lego Car Project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lego Car Project.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OSHA-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/OSHA-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work.html" beforeDir="false" afterPath="$PROJECT_DIR$/Work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_OLD.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_OLD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vocation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vocation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +138,7 @@
       <workItem from="1711970699660" duration="15652000" />
       <workItem from="1713894168633" duration="5073000" />
       <workItem from="1716228013862" duration="5398000" />
-      <workItem from="1716302537473" duration="1769000" />
+      <workItem from="1716302537473" duration="8419000" />
     </task>
     <task id="LOCAL-00001" summary="Started my profoilo">
       <option name="closed" value="true" />
@@ -233,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716302658568</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update changes. 2024/05/21">
+      <option name="closed" value="true" />
+      <created>1716304354223</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716304354223</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
